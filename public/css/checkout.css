@@ -1,0 +1,7 @@
+#products_table img, #category_table img {
+    width: 70px;
+}
+
+#payments .accordion-button:not(.collapsed), #payments .card-header {
+    background-color: #e9ecef !important;
+}

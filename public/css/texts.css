@@ -1,0 +1,49 @@
+h2 {
+    margin-bottom: 18px !important;
+    /* font-size: 5vw !important; */
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px !important;
+    color: black;
+}
+
+p{
+    color: grey !important;
+    font-size: 3.2vw !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+div {
+    font-family: 'Montserrat' !important;
+}
+
+.btn {
+    opacity: 85%;
+}
+
+#modalbuttonaddtocart, #modalaaddtocart{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 14px;
+    font-size: 20px;
+}
+
+#card_product_list .btn {
+    font-size: 0.9em;
+    border-radius: 30%;
+}
+
+.btn#buy {
+    font-size: 0.6em;
+    border-radius: 30%;
+}
+
+.analyticstitles {
+    margin: 20px 0;
+}
